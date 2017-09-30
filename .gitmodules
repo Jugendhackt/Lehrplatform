@@ -1,3 +1,6 @@
 [submodule "Digitaler Unterricht"]
 	path = Digitaler Unterricht
 	url = https://github.com/Jugendhackt/LAS.git
+[submodule "Schülerportal"]
+	path = Schülerportal
+	url = https://github.com/Jugendhackt/schuelerportal.git
